@@ -1,0 +1,1 @@
+Twitter Bootstrap 2 theme made for [Class Central](http://www.class-central.com) by [Abhishek Gupta](https://twitter.com/#!/uxabhishek)
